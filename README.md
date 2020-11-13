@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# CDK + Apollo Server + AWS Lambda example
 
-This is a blank project for TypeScript development with CDK.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Original blogpost: https://tlakomy.com/build-a-simple-graphql-server-with-apollo-and-cdk
 
 ## Useful commands
 
